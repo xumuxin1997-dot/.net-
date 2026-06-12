@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c#\u8BED\u8A00\\c#\u57F9\u8BAD\\2.c#\u9AD8\u7EA7\u73ED\\1\u3001C#\u8FDB\u9636\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\Ruanmou.Libraries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88B2939A-153C-431A-94C6-60B6FAF8F19E}|Ruanmou.Libraries.DAL\\Ruanmou.Libraries.DAL.csproj|e:\\c#\u8BED\u8A00\\c#\u57F9\u8BAD\\2.c#\u9AD8\u7EA7\u73ED\\1\u3001c#\u8FDB\u9636\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\ruanmou.libraries\\ruanmou.libraries.dal\\basedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B2939A-153C-431A-94C6-60B6FAF8F19E}|Ruanmou.Libraries.DAL\\Ruanmou.Libraries.DAL.csproj|solutionrelative:ruanmou.libraries.dal\\basedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseDAL.cs",
+              "DocumentMoniker": "E:\\c#\u8BED\u8A00\\c#\u57F9\u8BAD\\2.c#\u9AD8\u7EA7\u73ED\\1\u3001C#\u8FDB\u9636\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\Ruanmou.Libraries\\Ruanmou.Libraries.DAL\\BaseDAL.cs",
+              "RelativeDocumentMoniker": "Ruanmou.Libraries.DAL\\BaseDAL.cs",
+              "ToolTip": "E:\\c#\u8BED\u8A00\\c#\u57F9\u8BAD\\2.c#\u9AD8\u7EA7\u73ED\\1\u3001C#\u8FDB\u9636\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\Ruanmou.Libraries\\Ruanmou.Libraries.DAL\\BaseDAL.cs",
+              "RelativeToolTip": "Ruanmou.Libraries.DAL\\BaseDAL.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T05:38:23.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 125,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

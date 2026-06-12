@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c#\u8BED\u8A00\\c#\u57F9\u8BAD\\2.c#\u9AD8\u7EA7\u73ED\\1\u3001C#\u8FDB\u9636\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\Ruanmou.Libraries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE6FFFD-A717-4E0C-9892-AE5BCDAAE6D9}|Ruanmou.Libraries.Model\\Ruanmou.Libraries.Model.csproj|e:\\c#\u8BED\u8A00\\c#\u57F9\u8BAD\\2.c#\u9AD8\u7EA7\u73ED\\1\u3001c#\u8FDB\u9636\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\ruanmou.libraries\\ruanmou.libraries.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE6FFFD-A717-4E0C-9892-AE5BCDAAE6D9}|Ruanmou.Libraries.Model\\Ruanmou.Libraries.Model.csproj|solutionrelative:ruanmou.libraries.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48274DE-0D9E-422D-AEFB-914F24F21BD1}|Ruanmou.Libraries\\Ruanmou.Libraries.csproj|E:\\c#\u8BED\u8A00\\c#\u57F9\u8BAD\\2.c#\u9AD8\u7EA7\u73ED\\1\u3001C#\u8FDB\u9636\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\Ruanmou.Libraries\\ruanmou.libraries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48274DE-0D9E-422D-AEFB-914F24F21BD1}|Ruanmou.Libraries\\Ruanmou.Libraries.csproj|solutionrelative:ruanmou.libraries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\c#\u8BED\u8A00\\c#\u57F9\u8BAD\\2.c#\u9AD8\u7EA7\u73ED\\1\u3001C#\u8FDB\u9636\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\Ruanmou.Libraries\\Ruanmou.Libraries.Model\\User.cs",
+              "RelativeDocumentMoniker": "Ruanmou.Libraries.Model\\User.cs",
+              "ToolTip": "E:\\c#\u8BED\u8A00\\c#\u57F9\u8BAD\\2.c#\u9AD8\u7EA7\u73ED\\1\u3001C#\u8FDB\u9636\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\Ruanmou.Libraries\\Ruanmou.Libraries.Model\\User.cs",
+              "RelativeToolTip": "Ruanmou.Libraries.Model\\User.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T00:14:49.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c#\u8BED\u8A00\\c#\u57F9\u8BAD\\2.c#\u9AD8\u7EA7\u73ED\\1\u3001C#\u8FDB\u9636\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\Ruanmou.Libraries\\Ruanmou.Libraries\\Program.cs",
+              "RelativeDocumentMoniker": "Ruanmou.Libraries\\Program.cs",
+              "ToolTip": "E:\\c#\u8BED\u8A00\\c#\u57F9\u8BAD\\2.c#\u9AD8\u7EA7\u73ED\\1\u3001C#\u8FDB\u9636\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\21\u3001\u52A0\u5BC6\u89E3\u5BC6\\Ruanmou.Libraries\\Ruanmou.Libraries\\Program.cs",
+              "RelativeToolTip": "Ruanmou.Libraries\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T00:05:36.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 125,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
